@@ -9,7 +9,6 @@ import queue as Q
 import resource
 import heapq
 
-
 #### SKELETON CODE ####
 ## The Class that Represents the Puzzle
 class PuzzleState(object):
